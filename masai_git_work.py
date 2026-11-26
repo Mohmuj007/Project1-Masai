@@ -1,0 +1,2 @@
+print("Mohamed")
+print("Mujahith")
